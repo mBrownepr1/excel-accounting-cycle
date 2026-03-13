@@ -84,3 +84,8 @@ Financial data organization
 Purpose
 -------------
 This project was created as part of accounting coursework to demonstrate practical understanding of financial accounting processes and financial record management.
+
+-------------
+![Image](Journal_Entry.png)
+
+![Image](Ledger_Screenshot.png)
